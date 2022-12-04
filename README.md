@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Diego Lauricella! 👋<br><br>I'm Diego from Italy, an aspiring Full Stack and Blockchain Developer. <br>In my free time I write articles about Web3/Crypto topics on twitter😊
+How to Reach me ⤵️
+- Mail - diego.boost@gmail.com
 
 
 ## 🌐 Socials:
