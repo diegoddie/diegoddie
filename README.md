@@ -2,11 +2,18 @@
 👋 Ciao! Welcome to my GitHub profile!<br />
 I'm Diego Lauricella, a 25-year-old self-taught programmer from Italy. I fell in love with programming back in early 2022, and since then, I've been on an exciting journey of exploration and learning. 💻
 ### Programming Journey
-🐍 Python was my first programming language, and it ignited my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently.<br><br>📚 I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br><br>⚛️ Lately, I've been exploring the world of JavaScript, focusing on popular libraries like React and Next.js. I find the dynamic nature of frontend development intriguing, and I'm eager to hone my skills in this domain.<br>
+🐍 Python was my first programming language, and it ignited my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently.<br><br>📚 I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br><br>⚛️ Lately, I've been exploring the world of JavaScript, focusing on popular libraries like React and Next.js. I've worked on several projects utilizing the MERN stack (MongoDB, Express.js, React, Node.js). Building full-stack applications with this powerful combination has been a rewarding experience.<br>
 ### Blockchain and Basketball Lover
 ⛓️ When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me. Let's discuss the latest developments in this exciting field!<br><br>🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br>
+### Future Projects
+🚀 Here are some of the projects I have in mind for the near future:<br />
+1. Portfolio Website: I plan to create a personal portfolio website to showcase my skills, projects, and achievements. It will be a platform to highlight my growth as a developer.<br/>
+
+2. Solidity: Given my interest in blockchain technology, I'm excited to dive deeper into smart contract development using Solidity. I aim to contribute to decentralized applications and explore the potential of blockchain in various industries.
+
+3. Data Analysis Fundamentals: Having used Python with libraries like Pandas, I am eager to deepen my understanding of data analysis techniques. Exploring data, deriving insights, and making data-driven decisions are skills I want to enhance.
 ### Looking for Opportunities🔍 
-My ultimate goal is to secure my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!
+My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!
 ### Let's Connect📫 
 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile! 😄
 
