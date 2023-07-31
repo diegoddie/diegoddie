@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Ciao! Welcome to my GitHub profile!<br />
-I'm Diego Lauricella, a 25-year-old self-taught programmer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻
+I'm Diego Lauricella, a 25-year-old self-taught programmer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br/>
 Take a look at my website! https://diegolauricella.netlify.app/ 
 ### Programming Journey
 🐍 Python was my first programming language, and it ignited my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently.<br><br>📚 I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br><br>⚛️ Lately, I've been exploring the world of JavaScript, focusing on popular libraries like React and Next.js. I've worked on several projects utilizing the MERN stack (MongoDB, Express.js, React, Node.js). Building full-stack applications with this powerful combination has been a rewarding experience.<br>
