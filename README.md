@@ -10,8 +10,8 @@ Take a look at my website! https://diegolauricella.netlify.app/
 🚀 In the near future, I plan to focus on enhancing my skills in the following areas:<br />
 1. Typescript: I aim to learn Typescript to strengthen my application development abilities. This typed language will add a new dimension to my skill set for writing robust and maintainable code.
 
-2. Data Analysis: I'm eager to delve deeper into Data Analysis. Using tools like Python and libraries like Pandas, I want to refine my ability to explore data, extract insights, and make data-driven decisions.
-
+2. Take a FrontEnd Course
+   
 3. Solidity Mastery: Building on my interest in blockchain technology, I'm excited to advance my proficiency in Solidity. I aspire to contribute to decentralized applications and harness the potential of blockchain across industries.
 ### Looking for Opportunities🔍 
 My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!
