@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Diego Lauricella, a 25-year-old self-taught Full Stack Developer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br>
-Take a look at my website! https://diegolauricella.netlify.app/<br><br>
+Take a look at my website! https://diegolauricella.netlify.app/<br>
 
 ### Programming Journey<br>
 🐍 Python was my first programming language, and I discovered my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently.<br><br>
