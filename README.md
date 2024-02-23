@@ -21,7 +21,7 @@ Take a look at my website! https://diegolauricella.netlify.app/<br><br>
 🔍 My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!<br><br>
 
 ### Let's Connect<br>
-📫 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile!<br><br> 😄
+📫 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile!😄<br><br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-lauricella-5059bb290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/diegothedev) 
