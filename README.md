@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Diego Lauricella, a 25-year-old self-taught Full Stack Developer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br>
-Take a look at my website! https://diegolauricella.netlify.app/<br>
+Take a look at my website! https://diegolauricella.netlify.app/<br><br>
 
 ### Programming Journey<br>
 🐍 Python was my first programming language, and I discovered my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently.<br><br>
@@ -9,19 +9,19 @@ Take a look at my website! https://diegolauricella.netlify.app/<br>
 
 ### Blockchain and Basketball Lover<br> 
 ⛓️ When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me.<br>
-🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br>
+🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br><br>
 
 ### Goals<br> 
 🚀 In the near future, I plan to focus on:<br>
 - Typescript<br>
 - Take a FrontEnd Course<br>
-- Master Solidity<br>
+- Master Solidity<br><br>
 
 ### Looking for Opportunities<br>
 🔍 My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!<br><br>
 
 ### Let's Connect<br>
-📫 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile! 😄
+📫 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile!<br><br> 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-lauricella-5059bb290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/diegothedev) 
