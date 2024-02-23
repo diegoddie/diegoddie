@@ -7,22 +7,22 @@ Take a look at my website! https://diegolauricella.netlify.app/<br><br>
 📚 I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br><br>
 ⚛️ Lately, I've been focusing on popular libraries like React and Next.js. I've worked on several projects utilizing the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>
 
-### Blockchain and Basketball Lover<br>⛓️ 
-When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me.<br><br>🏀 
+### Blockchain and Basketball Lover<br> 
+⛓️ When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me.<br><br>
 
-Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br<br>
+🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br<br>
 
-### Goals<br>🚀 
-In the near future, I plan to focus on:<br><br>
+### Goals<br> 
+🚀 In the near future, I plan to focus on:<br><br>
 - Typescript<br>
 - Take a FrontEnd Course<br>
 - Master Solidity<br>
 
-### Looking for Opportunities🔍<br>
-My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!<br><br>
+### Looking for Opportunities<br>
+🔍 My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!<br><br>
 
-### Let's Connect📫<br>
-Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile! 😄
+### Let's Connect<br>
+📫 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile! 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-lauricella-5059bb290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/diegothedev) 
