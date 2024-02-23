@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Ciao! Welcome to my GitHub profile!<br />
+#👋 Ciao! Welcome to my GitHub profile!
 I'm Diego Lauricella, a 25-year-old self-taught programmer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br/>
 Take a look at my website! https://diegolauricella.netlify.app/ 
 ### Programming Journey
