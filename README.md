@@ -3,9 +3,9 @@ I'm Diego Lauricella, a 25-year-old self-taught Full Stack Developer from Italy.
 Take a look at my website! https://diegolauricella.netlify.app/<br><br>
 
 ### Programming Journey<br>
-🎓 In early 2022, I enrolled in Start2Impact University, an Italian B-Corp offering various master's programs for digital professions. With Start2Impact, I completed the Full Stack Developer and Blockchain Developer master's programs.
-🐍 Python was my first programming language, and I discovered my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently. I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br><br>
-⛓️ In July 2023, I obtained the Ethereum Developer Certification after attending Alchemy University's bootcamp.
+🎓 In early 2022, I enrolled in Start2Impact University, an Italian B-Corp offering various master's programs for digital professions. With Start2Impact, I completed the Full Stack Developer and Blockchain Developer master's programs.<br>
+🐍 Python was my first programming language, and I discovered my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently. I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br>
+⛓️ In July 2023, I obtained the Ethereum Developer Certification after attending Alchemy University's bootcamp.<br>
 ⚛️ Lately, I've been focusing on popular libraries like React and Next.js. I've worked on several projects utilizing the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>
 
 ### Blockchain and Basketball Lover<br> 
