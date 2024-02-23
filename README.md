@@ -8,9 +8,8 @@ Take a look at my website! https://diegolauricella.netlify.app/<br>
 ⚛️ Lately, I've been focusing on popular libraries like React and Next.js. I've worked on several projects utilizing the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>
 
 ### Blockchain and Basketball Lover<br> 
-⛓️ When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me.<br><br>
-
-🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br<br>
+⛓️ When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me.<br>
+🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br>
 
 ### Goals<br> 
 🚀 In the near future, I plan to focus on:<br>
