@@ -1,17 +1,16 @@
 # Ciao! 👋 Welcome to my GitHub profile!
-I'm Diego Lauricella, a 25-year-old self-taught programmer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br/>
+I'm Diego Lauricella, a 25-year-old self-taught Full Stack Developer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br/>
 Take a look at my website! https://diegolauricella.netlify.app/ 
 ### Programming Journey
 🐍 Python was my first programming language, and I discovered my passion for coding. As I dived deeper, I discovered frameworks like Django and Flask, which allowed me to build web applications more efficiently.<br><br>📚 I've also dived into various types of databases, ranging from MongoDB and Redis to PostgreSQL. Understanding different database technologies has given me a solid foundation for building robust and scalable applications.<br><br>⚛️ Lately, I've been focusing on popular libraries like React and Next.js. I've worked on several projects utilizing the MERN stack (MongoDB, Express.js, React, Node.js). <br>
 ### Blockchain and Basketball Lover
 ⛓️ When I'm not coding, you'll often find me immersed in the fascinating world of blockchain technology. The potential for decentralization and transparency in blockchain projects truly captivates me. <br><br>🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br>
-### Future Skill Enhancement
-🚀 In the near future, I plan to focus on enhancing my skills in the following areas:<br />
-1. Typescript: I aim to learn Typescript to strengthen my application development abilities. This typed language will add a new dimension to my skill set for writing robust and maintainable code.
-
+### Goals
+🚀 In the near future, I plan to focus on:<br />
+1. Typescript
 2. Take a FrontEnd Course
+3. Master Solidity
    
-3. Solidity Mastery: Building on my interest in blockchain technology, I'm excited to advance my proficiency in Solidity. I aspire to contribute to decentralized applications and harness the potential of blockchain across industries.
 ### Looking for Opportunities🔍 
 My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!
 ### Let's Connect📫 
