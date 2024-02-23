@@ -13,7 +13,7 @@ Take a look at my website! https://diegolauricella.netlify.app/<br><br>
 🏀 Another passion of mine is basketball. Whether I'm playing with friends or cheering for my favorite team, it's a sport that brings me joy and keeps me active.<br<br>
 
 ### Goals<br> 
-🚀 In the near future, I plan to focus on:<br><br>
+🚀 In the near future, I plan to focus on:<br>
 - Typescript<br>
 - Take a FrontEnd Course<br>
 - Master Solidity<br>
