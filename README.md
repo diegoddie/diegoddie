@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Diego Lauricella, a 25-year-old self-taught Full Stack Developer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br>
-Take a look at my website! https://diegolauricella.netlify.app/<br><br>
+Take a look at my website! www.diegolauricella.com<br><br>
 
 ### Programming Journey<br>
 🎓 In early 2022, I enrolled in Start2Impact University, an Italian B-Corp offering various master's programs for digital professions. With Start2Impact, I completed the Full Stack Developer and Blockchain Developer master's programs.<br><br>
