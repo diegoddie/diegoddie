@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Diego Lauricella, a 26-year-old self-taught Full Stack Developer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br>
+I'm Diego Lauricella, a 27-year-old self-taught Full Stack Developer from Italy. I fell in love with programming back in late 2021, and since then, I've been on an exciting journey of exploration and learning. 💻<br>
 Take a look at my website! www.diegolauricella.com<br><br>
 
 ### Programming Journey<br>
@@ -17,9 +17,6 @@ Take a look at my website! www.diegolauricella.com<br><br>
 - Typescript<br>
 - Data Structures and Algorithms<br>
 - Master Solidity<br><br>
-
-### Looking for Opportunities<br>
-🔍 My ultimate goal is to obtain my first job as a junior full-stack developer. I'm eager to apply my knowledge and contribute to innovative projects. If you have any opportunities or if you'd like to collaborate, please don't hesitate to get in touch!<br><br>
 
 ### Let's Connect<br>
 📫 Feel free to connect with me via email. I'm always excited to meet fellow developers, share experiences, and learn from each other.<br><br>Thank you for visiting my profile!😄<br><br> 
